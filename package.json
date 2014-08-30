@@ -10,5 +10,18 @@
   "license": "MIT",
   "dependencies": {
     "suitcss-preprocessor": "^0.4.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aaronj1335/suit-loader.git"
+  },
+  "keywords": [
+    "suitcss",
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/aaronj1335/suit-loader/issues"
+  },
+  "homepage": "https://github.com/aaronj1335/suit-loader"
 }
