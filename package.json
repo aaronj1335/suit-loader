@@ -1,0 +1,14 @@
+{
+  "name": "suit-loader",
+  "version": "0.0.0",
+  "description": "webpack loader for suit.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Stacy",
+  "license": "MIT",
+  "dependencies": {
+    "suitcss-preprocessor": "^0.4.0"
+  }
+}
